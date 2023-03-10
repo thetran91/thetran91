@@ -1,7 +1,7 @@
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Xuan-The Tran (Eric). I am an PhD student in Computer Science, majoring in Artificial Intelligence and Neuroscience. I am interested in the following topics: Deep Learning in Brain Imaging, Computer Vision and NLP.<br>
 
-<img src="https://raw.githubusercontent.com/talhaanwarch/talhaanwarch/main/gitcover.png" alt="Talha Anwar Github Profile ">
+<!-- <img src="https://raw.githubusercontent.com/talhaanwarch/talhaanwarch/main/gitcover.png" alt="Talha Anwar Github Profile "> -->
 
 ## My Github Activity
 ![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=thetran91&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
